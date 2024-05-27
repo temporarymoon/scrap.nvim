@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/scrap.nvim](https://github.com/prescientmoon/scrap.nvim) 🚧
 # 🧲 Scrap.nvim
 
 A fully-tested, pure lua implementation of vim-abolish inspired pattern expansion. Useful for generating many abbreviations.
